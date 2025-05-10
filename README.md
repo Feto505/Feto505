@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**Feto505/Feto505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Faten Khalid
 
-Here are some ideas to get you started:
+🚀 **Flutter Developer** | Passionate about building high-quality, scalable apps  
+📍 Sana’a, Yemen  
+📫 fatenkhalid4s@gmail.com  
+🔗 [GitHub](https://github.com/Feto505) | [LinkedIn](https://www.linkedin.com/in/faten-al-goulhi-786295353)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+- Flutter, Dart
+- Clean Architecture, Bloc, MVI, GetX
+- Firebase (Auth, Firestore, FCM), SQLite, Hive, Dio
+- Git, GitHub Actions, CI/CD, Agile & Scrum
+
+---
+
+### 🌟 Notable Projects
+
+#### 📝 Online Exam App  
+Real-time quizzes with result analysis, Firebase Auth, and Clean Architecture.
+
+#### 🌸 Flowery App  
+E-commerce mobile app with cart & checkout flow, notifications, and tracking.
+
+#### 📦 Tracking App  
+Real-time location tracking for deliveries with Firebase Cloud Messaging.
+
+#### 🏋️ Fitness App  
+Workout routines, push notifications, and daily progress tracking.
+
+#### 🕌 Islamic App  
+Quran streaming, prayer times, Azkar, media controls, and multi-language support.
+
+---
+
+### 📸 UI Showcase
+Each project repo includes screenshots inside the `screenshots/` folder.  
+Open the README file in each project to see live UI previews!
+
+---
+
+### 📬 Let's Connect!
+I'm open to freelance opportunities, collaborations, and team-based projects.  
+Feel free to reach out or visit my profile to learn more.
+
