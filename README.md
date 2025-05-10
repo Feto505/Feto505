@@ -20,15 +20,15 @@
 
 #### 📝 Online Exam App  
 Real-time quizzes with result analysis, Firebase Auth, and Clean Architecture.
+🔗 repo: [repo](https://github.com/Eslam-mahmou/online_exam_app).
 
 #### 🌸 Flowery App  
 E-commerce mobile app with cart & checkout flow, notifications, and tracking.
+🔗 repo: [repo](https://github.com/omarelsayid/flower_app).
 
 #### 📦 Tracking App  
 Real-time location tracking for deliveries with Firebase Cloud Messaging.
-
-#### 🏋️ Fitness App  
-Workout routines, push notifications, and daily progress tracking.
+🔗 repo: [repo](https://github.com/mohamedgamal125/Tracking_app).
 
 #### 🕌 Islamic App  
 Quran streaming, prayer times, Azkar, media controls, and multi-language support.
